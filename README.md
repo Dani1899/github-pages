@@ -8,4 +8,4 @@
 * опыт работы в Gira
 * знание английского языка на уровне Intermediate
   
-![](../images/def.jpeg)
+![](def.jpeg)
